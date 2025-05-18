@@ -17,3 +17,4 @@ We build some maps for free ( some can be paid : you can optain them on Ko-fi )
 ## Staff :
 - K3013 : Owner and main dev
 - Chester1174064 : Co-Owner
+- Aze77ezA : Main - Helper and casual bulder
