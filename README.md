@@ -10,7 +10,10 @@ We create Geometry Dash levels for fun or eyes
 ## 3 - Roblox Maps
 We don't have any map but we want to create one
 
+## 4 - Minecraft RP worlds
+We build some maps for free ( some can be paid : you can optain them on Ko-fi )
 
-## Members :
+
+## Staff :
 - K3013 : Owner and main dev
 - Chester1174064 : Co-Owner
