@@ -8,8 +8,8 @@ An untagged dev team is a indy team who dev tools like [Better Vibrant Visuals](
 ### [K3013](https://github.com/K3013)
 - The main dev and team owner
 ***
-### [YellawKirbeh]
+### [YellawKirbeh](https://github.com/YellauwKirbeh673154)
 - The co-owner and main artist
 ***
-### [Aze77ezA]
+### **Aze77ezA**
 - The casual helper and the
