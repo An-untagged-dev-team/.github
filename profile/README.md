@@ -5,11 +5,14 @@ An untagged dev team is a indy team who dev tools like [Better Vibrant Visuals](
 |-                                                                     |-                                             |-                              |-
 |Better Vibrant Visuals is a enhanced version of Vibrant Visuals (WIP) |Hit It is a Geometry Dash level made by K3013 |This is a WIP Roblox horror map|This is a Minecraft cross-platform server
 ## Staff
-#### [K3013](https://github.com/K3013)
-- The main dev and team owner
+### [K3013](https://github.com/K3013)
+- The main coder and team owner
 ***
-#### [YellawKirbeh](https://github.com/YellauwKirbeh673154)
+### [YellawKirbeh](https://github.com/YellauwKirbeh673154)
 - The co-owner and main artist
 ***
-#### **Aze77ezA**
+### **Aze77ezA**
 - The casual helper and the
+***
+### MADLAB
+- The BetterRTX dev ( I want to colab with him )
