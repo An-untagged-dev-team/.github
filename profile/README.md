@@ -35,4 +35,4 @@ We must still do :
 every AI is just used for do some items but not everything !!!
 ###### An untagged dev team is a GitHub organization made by K3013. Every repostories, websites, Minecraft maps, Roblox games or GD levels belong to him and his team.
 ###### EVERY CLONE OF THIS ORGANIZATION, REPOSTORIES, MAPS, GAMES, LEVELS AND WEBSITE CAN BE REPORTED BY [YELLAWKIRBEH](https://github.com/YellauwKirbeh673154)
-###### see more at this link : [license](https://github.com/An-untagged-dev-team/.github/main/LICENSE)
+###### see more at this link : [license](https://github.com/An-untagged-dev-team/.github/blob/main/LICENSE)
