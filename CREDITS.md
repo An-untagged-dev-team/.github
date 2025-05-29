@@ -1,0 +1,3 @@
+### K3013 : team owner and main coder
+### YellawKirbeh : co-owner and main artist
+### Aze77ezA : casual helper and main builder
