@@ -16,9 +16,19 @@ An untagged dev team is a indy team who dev tools like [Better Vibrant Visuals](
 ***
 ### MADLAB ( doesn't a member )
 - The BetterRTX dev ( I want to colab with him )
+***
+### AI copilot from github
+- Help K3013 to code some scripts
+***
+### Roblox AI copilot
+- Help us to create the oblox horror map
+***
 ## To do list
 We must still do :
 - Complete Better Vibrant Visuals
 - Create **THIS manor !#@#***
 - Add a Minecraft map
 - Create a MC ressource pack
+##### Note
+every AI is just used for do some items but not everything !!!
+###### An untagged dev team is a GitHub organization made by K3013. Every repostories, websites, Minecraft maps, Roblox games or GD levels belong to him and his team
