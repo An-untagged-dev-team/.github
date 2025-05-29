@@ -1,7 +1,7 @@
 # Introduction
 An untagged dev team is a indy team who dev tools like [Better Vibrant Visuals](https://github.com/Better-Vibrant-Visuals) or GD levels like **Hit It**
 ## Projects
-|Better Vibrant Visuals                                                |Hit It !                                      |THIS manor !#@#*               |Project 3013
+|Better Vibrant Visuals                                                |Hit It !                                      |THIS manor !#@#                |Project 3013
 |-                                                                     |-                                             |-                              |-
 |Better Vibrant Visuals is a enhanced version of Vibrant Visuals (WIP) |Hit It is a Geometry Dash level made by K3013 |This is a WIP Roblox horror map|This is a Minecraft cross-platform server
 ## Staff
@@ -12,7 +12,13 @@ An untagged dev team is a indy team who dev tools like [Better Vibrant Visuals](
 - The co-owner and main artist
 ***
 ### **Aze77ezA**
-- The casual helper and the
+- The casual helper and the main builder
 ***
-### MADLAB
+### MADLAB ( doesn't a member )
 - The BetterRTX dev ( I want to colab with him )
+## To do list
+We must still do :
+- Complete Better Vibrant Visuals
+- Create **THIS manor !#@#***
+- Add a Minecraft map
+- Create a MC ressource pack
