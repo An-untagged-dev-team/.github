@@ -22,8 +22,8 @@ An untagged dev team is a indie team who dev tools like [Better Vibrant Visuals]
 - Tell me what K3013 must to correct
 ***
 ### Roblox AI copilot
-- Help us to create the oblox horror map
-- Generate some models
+- Help us to create the Roblox horror map
+- Generate some models ( in Roblox )
 ***
 ## To do list
 We must still do :
