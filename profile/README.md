@@ -1,10 +1,23 @@
 # Introduction
-An untagged dev team is a indie team who dev tools like [Better Vibrant Visuals](https://github.com/Better-Vibrant-Visuals) or GD levels like **Hit It**
-## Projects
-|Better Vibrant Visuals                                                |Hit It !                                      |THIS manor !#@#                |Project 3013
-|-                                                                     |-                                             |-                              |-
-|Better Vibrant Visuals is a enhanced version of Vibrant Visuals (WIP) |Hit It is a Geometry Dash level made by K3013 |This is a WIP Roblox horror map|This is a Minecraft cross-platform server
-## Staff
+# Welcome to "An untaggeed dev team"
+We want to create the masterpiece of Minecraft, Roblox, and more games
+
+## 1 - Klash Shaders
+A enhancement texture pack of the shaders to mcbe : Vibrant Visual
+***
+## 2 - GD levels
+We create Geometry Dash levels for fun or eyes
+***
+## 3 - Roblox Maps
+We don't have any map but we want to create one
+***
+## 4 - Minecraft RP worlds
+We build some maps for free ( some can be paid : you can optain them on Ko-fi )
+***
+## 5 - Websites
+K3013 can also create your own website ( more explaination [here](https://an-untagged-dev-team.github.io/K3013s-service-website.html) )
+***
+# Staff
 ### [K3013](https://github.com/K3013)
 - The main coder and team owner
 ***
@@ -27,10 +40,8 @@ An untagged dev team is a indie team who dev tools like [Better Vibrant Visuals]
 ***
 ## To do list
 We must still do :
-- Complete Better Vibrant Visuals
-- Create **THIS manor !#@#***
+- Create **THIS manor**
 - Add a Minecraft map
-- Create a MC resource pack
 ##### Note
 every AI is just used for do some items but not everything !!!
 ###### An untagged dev team is a GitHub organization made by K3013. Every repostories, websites, Minecraft maps, Roblox games or GD levels belong to him and his team.
