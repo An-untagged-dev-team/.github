@@ -14,7 +14,7 @@ We don't have any map but we want to create one
 We build some maps for free ( some can be paid : you can optain them on Ko-fi )
 ***
 ## 5 - Websites
-K3013 can also create your own website ( more explaination [here](https://an-untagged-dev-team.github.io/K3013s-service-website.html)
+K3013 can also create your own website ( more explaination [here](https://an-untagged-dev-team.github.io/K3013s-service-website.html) )
 
 
 # Staff :
